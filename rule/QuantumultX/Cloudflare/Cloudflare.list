@@ -62,7 +62,7 @@ IP-CIDR,198.41.128.0/17,Cloudflare
 IP-CIDR,162.158.0.0/15,Cloudflare
 IP-CIDR,104.16.0.0/12,Cloudflare
 IP-CIDR,104.19.0.0/20,Cloudflare
-IP-CIDR,104.26.0.0/20,Cloudflare
+IP-CIDR,104.24.0.0/13,Cloudflare
 IP-CIDR,172.64.0.0/17,Cloudflare
 IP-CIDR,172.64.128.0/18,Cloudflare
 IP-CIDR,172.64.192.0/19,Cloudflare
